@@ -1,0 +1,72 @@
+.jedendziewiec
+{
+    text-align: center;
+    background-color:#c0c0c0;
+}
+.dwaosiem{
+    text-align: center;
+    background-color: #ffff99;
+}
+.trzysiedem{
+    text-align: right;
+    background-color: #800000;
+}
+.czteryszesc{
+    text-align: left;
+    background-color: #ff99ff;
+}
+.jedenszesc{
+    color: #00ff00;
+}
+.jedenszesc > i{
+    color:#ff0000;
+}
+.dwasiedem{
+    color:#00ffff;
+}
+.dwasiedem > i{
+    color: #008000;
+}
+.trzyosiem{
+    color: #808000;
+}
+.trzyosiem > i{
+    color: #008080;
+}
+.czterydziewiec{
+    color: #0000ff;
+}
+.czterydziewiec > i{
+    color: #800080;
+}
+#piec{
+    background-color: #00ffff;
+}
+#h1piec{
+    color: #000080;
+    text-align: center;
+}
+#ipiec{
+    color: #ffff00;
+}
+ol > ol{
+    color: #008000;
+}
+a:link{
+    background-color: #000080;
+    color: #00ffff;
+}
+a:visited{
+    background-color: #00ffff;
+    color:#000080;
+}
+a:hover{
+    background-color: #ff0000;
+    color:#ffff00;
+    font-size: x-large;
+    font-style: italic;
+}
+a:active{
+    background-color: #000000;
+    color:#ffffff;
+}
